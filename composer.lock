@@ -218,10 +218,10 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:GSA/data.gov",
-                "reference": "d496251170bf862c2a4497c78fad76de179b9ba6"
+                "reference": "dffe1bd3405d3c9f75dd93ab8968f8f3aea4c272"
             },
             "type": "wordpress-theme",
-            "time": "2016-09-03 05:25:53"
+            "time": "2016-10-20 19:47:59"
         },
         {
             "name": "gsa/datagov-custom",
@@ -229,13 +229,13 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:GSA/datagov-custom",
-                "reference": "ec74dc4908f5f271f6ecbf5d8fe2b1144971fdac"
+                "reference": "a960bc6599be6c26dd547f2487c43287914222df"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2016-09-04 23:11:59"
+            "time": "2016-10-11 16:51:28"
         },
         {
             "name": "gsa/interactive-world-maps",
@@ -434,16 +434,16 @@
         },
         {
             "name": "johnpbloch/wordpress",
-            "version": "4.6",
+            "version": "4.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress.git",
-                "reference": "1fb4b67e331d82f9061eaf3fcbc94163db85c135"
+                "reference": "aca8da84b4a699b16b8bcc96d2bc794a4c7b5ae3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/1fb4b67e331d82f9061eaf3fcbc94163db85c135",
-                "reference": "1fb4b67e331d82f9061eaf3fcbc94163db85c135",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/aca8da84b4a699b16b8bcc96d2bc794a4c7b5ae3",
+                "reference": "aca8da84b4a699b16b8bcc96d2bc794a4c7b5ae3",
                 "shasum": ""
             },
             "require": {
@@ -467,7 +467,7 @@
                 "blog",
                 "cms"
             ],
-            "time": "2016-08-16 18:32:04"
+            "time": "2016-09-07 15:01:47"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -1594,15 +1594,15 @@
         },
         {
             "name": "wpackagist-plugin/advanced-custom-fields",
-            "version": "4.4.8",
+            "version": "4.4.11",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/advanced-custom-fields/",
-                "reference": "tags/4.4.8"
+                "reference": "tags/4.4.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.4.4.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.4.4.11.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1614,15 +1614,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.11",
+            "version": "3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.11"
+                "reference": "tags/3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.11.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1634,15 +1634,15 @@
         },
         {
             "name": "wpackagist-plugin/amazon-s3-and-cloudfront",
-            "version": "1.0.5",
+            "version": "1.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/amazon-s3-and-cloudfront/",
-                "reference": "tags/1.0.5"
+                "reference": "tags/1.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.1.0.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.1.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1674,15 +1674,15 @@
         },
         {
             "name": "wpackagist-plugin/aryo-activity-log",
-            "version": "2.3.3",
+            "version": "2.3.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/aryo-activity-log/",
-                "reference": "trunk"
+                "reference": "tags/2.3.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/aryo-activity-log.zip",
+                "url": "https://downloads.wordpress.org/plugin/aryo-activity-log.2.3.4.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1714,15 +1714,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "5.6.1",
+            "version": "5.6.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/5.6.1"
+                "reference": "tags/5.6.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.5.6.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.5.6.4.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1794,15 +1794,15 @@
         },
         {
             "name": "wpackagist-plugin/contact-form-7",
-            "version": "4.5",
+            "version": "4.5.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/contact-form-7/",
-                "reference": "tags/4.5"
+                "reference": "tags/4.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/contact-form-7.4.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/contact-form-7.4.5.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1894,7 +1894,7 @@
         },
         {
             "name": "wpackagist-plugin/m-wp-popup",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/m-wp-popup/",
@@ -1934,15 +1934,15 @@
         },
         {
             "name": "wpackagist-plugin/plugin-vulnerabilities",
-            "version": "2.0.21",
+            "version": "2.0.28",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/plugin-vulnerabilities/",
-                "reference": "tags/2.0.21"
+                "reference": "tags/2.0.28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.21.zip",
+                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.28.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2034,7 +2034,7 @@
         },
         {
             "name": "wpackagist-plugin/social-media-feather",
-            "version": "1.7.11",
+            "version": "1.7.12",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/social-media-feather/",
@@ -2054,15 +2054,15 @@
         },
         {
             "name": "wpackagist-plugin/the-events-calendar",
-            "version": "4.2.6",
+            "version": "4.3.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/the-events-calendar/",
-                "reference": "tags/4.2.6"
+                "reference": "tags/4.3.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.2.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.3.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2294,15 +2294,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "2.12.0",
+            "version": "2.13.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/2.12.0"
+                "reference": "tags/2.13.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.2.12.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.2.13.1.zip",
                 "reference": null,
                 "shasum": null
             },
