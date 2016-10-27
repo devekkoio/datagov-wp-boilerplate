@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "977af75bffcb53fe228b9c300324163f",
-    "content-hash": "5e4b68bdbc6bfe5cb023c7ef93894ba0",
+    "hash": "c38c7a631f792fe4814abed58a581147",
+    "content-hash": "2f1b5f4b24663b5ace439466dc5dc395",
     "packages": [
         {
             "name": "composer/installers",
@@ -292,17 +292,17 @@
         },
         {
             "name": "gsa/saml-20-single-sign-on",
-            "version": "dev-master",
+            "version": "dev-max",
             "source": {
                 "type": "git",
                 "url": "git@github.com:GSA/saml-20-single-sign-on",
-                "reference": "13df32a6c575d20a2076ec46847d5933901560f0"
+                "reference": "e30ff89bb9e41592bcae6b905553d0a606566ffd"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2015-02-24 20:49:13"
+            "time": "2016-10-27 20:39:30"
         },
         {
             "name": "gsa/sticky-posts-in-category",
