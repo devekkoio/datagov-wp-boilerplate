@@ -296,13 +296,13 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:GSA/saml-20-single-sign-on",
-                "reference": "c2e5471d59fb614802814c631ac7dc25ed2a9039"
+                "reference": "a161ef73990c97b027ee8b19db3b4b06184c903f"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2016-10-28 03:31:38"
+            "time": "2016-10-28 03:46:09"
         },
         {
             "name": "gsa/sticky-posts-in-category",
