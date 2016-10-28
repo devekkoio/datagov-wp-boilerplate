@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c38c7a631f792fe4814abed58a581147",
-    "content-hash": "2f1b5f4b24663b5ace439466dc5dc395",
+    "hash": "3157c1885f64c2f030df0ae75b3dbadf",
+    "content-hash": "dd7612ccd8f007d1debd4f26b7fdb5a5",
     "packages": [
         {
             "name": "composer/installers",
@@ -296,13 +296,13 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:GSA/saml-20-single-sign-on",
-                "reference": "e30ff89bb9e41592bcae6b905553d0a606566ffd"
+                "reference": "c4c45225085ac1d1127c5224d07b46f703c7240c"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2016-10-27 20:39:30"
+            "time": "2016-10-27 21:26:09"
         },
         {
             "name": "gsa/sticky-posts-in-category",
@@ -1654,15 +1654,15 @@
         },
         {
             "name": "wpackagist-plugin/amazon-web-services",
-            "version": "0.3.7",
+            "version": "1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/amazon-web-services/",
-                "reference": "tags/0.3.7"
+                "reference": "tags/1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amazon-web-services.0.3.7.zip",
+                "url": "https://downloads.wordpress.org/plugin/amazon-web-services.1.0.zip",
                 "reference": null,
                 "shasum": null
             },
