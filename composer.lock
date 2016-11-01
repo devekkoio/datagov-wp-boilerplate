@@ -296,13 +296,13 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:GSA/saml-20-single-sign-on",
-                "reference": "b590905363dd67c012945adc36d44e9adb35607f"
+                "reference": "c20210565000fe229033de4e1cdba9c40a0963f0"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2016-10-28 04:55:44"
+            "time": "2016-11-01 00:22:07"
         },
         {
             "name": "gsa/sticky-posts-in-category",
@@ -1714,15 +1714,15 @@
         },
         {
             "name": "wpackagist-plugin/better-wp-security",
-            "version": "5.6.4",
+            "version": "5.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/better-wp-security/",
-                "reference": "tags/5.6.4"
+                "reference": "tags/5.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/better-wp-security.5.6.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/better-wp-security.5.7.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1934,15 +1934,15 @@
         },
         {
             "name": "wpackagist-plugin/plugin-vulnerabilities",
-            "version": "2.0.28",
+            "version": "2.0.29",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/plugin-vulnerabilities/",
-                "reference": "tags/2.0.28"
+                "reference": "tags/2.0.29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.28.zip",
+                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.29.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2034,7 +2034,7 @@
         },
         {
             "name": "wpackagist-plugin/social-media-feather",
-            "version": "1.7.12",
+            "version": "1.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/social-media-feather/",
